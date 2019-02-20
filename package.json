@@ -25,9 +25,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LesterGallagher/html2js-loader.git"
+    "url": "https://github.com/LesterGallagher/html2javascript.git"
   },
-  "homepage": "https://github.com/LesterGallagher/html2js-loader",
+  "homepage": "https://github.com/LesterGallagher/html2javascript",
   "keywords": [
     "html",
     "javascript",
